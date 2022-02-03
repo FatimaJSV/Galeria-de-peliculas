@@ -1,0 +1,42 @@
+.Un h1{
+    text-align: center;
+    font-weight: lighter;
+    padding: 11px;
+    font-size:xx-large;
+}
+.POST1{
+    display: block;
+    margin: auto;
+}
+.Sinopsis{
+    width: 25%;
+    height: auto;
+    font-weight: lighter;
+    background-color: yellow;
+    text-align: justify;
+    margin: 100px;
+    padding: 5px;
+    position: fixed;
+    top: auto; left: 50pc;
+    border-radius: 15px;
+}
+.Extras{
+    font-weight: lighter;
+    text-align: justify;
+    margin: 100px;
+    padding: 5px;
+    position: fixed;
+    text-align: center;
+}
+.next{
+    height: 90px; 
+    width: 70px;
+    position: fixed;
+    top: 15pc; left: 80pc;
+}
+.last{
+    height: 90px; 
+    width: 70px;
+    position: fixed;
+    top: 15pc; right: 80pc;
+}
